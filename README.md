@@ -4,5 +4,5 @@
 PT Sejahtera Bersama ingin memahami performa penjualan produknya melalui dashboard analisis penjualan. Analisis melalui dashboard dilakukan untuk mendapatkan insight yang dapat digunakan perusahaan dalam mempertahankan penjualan sekaligus meningkatkan penjualan kedepannya
 
 ## Tools
-- Google Big Query
+- Google BigQuery
 - Looker Studio
